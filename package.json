@@ -1,0 +1,28 @@
+{
+  "name": "dbbot",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/George70-svg/dbBot.git"
+  },
+  "author": "ASiuraev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/George70-svg/dbBot/issues"
+  },
+  "homepage": "https://github.com/George70-svg/dbBot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "telegraf": "^4.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
