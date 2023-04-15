@@ -1,2 +1,1 @@
-# dbBot
-Telegram bot
+# OpenAI telegram bot
